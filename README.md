@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HugoEnzo
 - 👀 I’m interested in data analytics, game development and all things python
-- 🌱 I’m currently learning SciKit and NumPy
+- 🌱 I’m currently learning SciKitlearn, TensorFlow, Keras and Web Development
 - 💞️ I’m looking to collaborate on beginner projects that might give me experience 
 - 📫 How to reach me - email me - sivasankaranirudh@gmail.com
 
