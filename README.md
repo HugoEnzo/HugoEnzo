@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @HugoEnzo
-- 👀 I’m interested in data analytics, game development and all things python
+- 👀 I’m interested in game dev, data analytics and web dev
 - 🌱 I’m currently learning Godot and Web Development(Vue.JS)
 - 💞️ I’m looking to collaborate on beginner projects/open source projects that would help build experience 
 - 📫 How to reach me - email me - sivasankaranirudh@gmail.com
